@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 # Djamgo - conceito
 Projeto inicial para estudos da estrutura do Framework Django
 
