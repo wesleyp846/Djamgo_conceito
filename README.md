@@ -143,4 +143,6 @@ Primeiro commit na data de 24/12/2023
 
 
 ![Se esta vendo essa imagem, deu tudo certo](<media/Captura de tela 2023-12-24 121034.png>)
+
+
 Se você viu essa tela, deu tudo certo! Bons estudos
