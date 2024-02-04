@@ -1,9 +1,13 @@
 # Djamgo - Conceitos para iniciantes
 
+<p align="center">
+   <img src="https://img.shields.io/badge/ STATUS-RELEASE(desenvolvendo)-blue"/>
+</p>
+
 > Linguagens em `Python`, com o Framework `Django`.
 
 &nbsp;
-## Introdução `Projeto Terminado`
+## Introdução
 Bem-vindo à documentação do `tutorial` para `iniciantes` no framework `Django`. 
 
 Uma ferramenta `completa` para codificação de aplicações `python` feitas para o embiente `web`.
